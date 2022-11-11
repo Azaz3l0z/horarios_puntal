@@ -1,4 +1,4 @@
-class Profesor(object):
+class Student(object):
     def __init__(self, name: str) -> None:
         self.name == name
         
